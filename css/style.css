@@ -1,0 +1,7 @@
+body {
+  padding-top: 56px; /* espace pour la navbar fixe */
+}
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
